@@ -3,7 +3,7 @@ using System.Net.Sockets;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace AmbiBoxApiCaller
+namespace PrismatikApiCaller
 {
     class Program
     {
